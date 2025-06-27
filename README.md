@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="images/Alura.png" alt="Alura Logo" height="80">
+  <img src="images/Logo-ONE.png" alt="Oracle Logo" height="80">
+  </p>
+
+
+
+
+
 # 🚀 Telecom X - Parte 2: Prevendo Churn
 
 Este projeto faz parte da Formação em Data Science oferecida pela Alura e Oracle - Programa ONE | Tech Foundation.
@@ -81,6 +90,8 @@ Execute todas as células para visualizar o pipeline completo.
 - scikit-learn
 
 ## 👨‍💻 Autor
-Maurício Barros
-GitHub | LinkedIn
+
+Desenvolvido por Maurício Barros
+
+Especialista em Análise de Dados com interesse em IA Generativa.
 
